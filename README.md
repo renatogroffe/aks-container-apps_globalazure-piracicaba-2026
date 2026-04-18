@@ -1,8 +1,9 @@
 # aks-container-apps_globalazure-piracicaba-2026
-Conteúdos da apresentação "Aplicações containerizadas no Azure: AKS ou Container Apps, qual a melhor solução?".
+Conteúdos da apresentação **Aplicações containerizadas no Azure: AKS ou Container Apps, qual a melhor solução?**.
 
-Imagens utilizadas:
-- 
+Imagens:
+
+- https://hub.docker.com/r/renatogroffe/dotnet10-worker-httprequest
 - https://hub.docker.com/r/renatogroffe/dotnet10-job-httprequest
 
 Projetos:
