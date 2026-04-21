@@ -5,6 +5,7 @@ LinkedIn (me adicione lá...): **https://www.linkedin.com/in/renatogroffe/**
 
 Exemplos apresentados:
 - API REST criada com .NET 10 + ASP.NET Core + Minimal APIs e publicada via Azure Container Apps: https://github.com/renatogroffe/aspnetcore10-minimalapis-appinsights-otel-scalar_contagemacessos-simulacaofalhas
+- Pipeline para execução de testes de carga automatizados com k6: https://github.com/renatogroffe/k6-loadtests-azuredevops-api-html-dashboard
 - Worker que envia requisições HTTP para testes: https://github.com/renatogroffe/dotnet10-worker_httprequest
 - Exemplo de uso deste Worker escalando com KEDA + Cron Scaler: https://github.com/renatogroffe/kubernetes-keda-cron_worker-httprequests 
 
