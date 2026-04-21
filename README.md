@@ -12,6 +12,11 @@ Projetos:
 - https://github.com/renatogroffe/dotnet10-worker_httprequest
 - https://github.com/renatogroffe/dotnet10-consoleapp_job-httprequest
 
+Referências:
+- k9s -  Kubernetes CLI To Manage Your Clusters In Style!: https://k9scli.io/
+- Grafana GROT Academy: https://learn.grafana.com/
+- Grafana k6 - Load Testing: https://learn.grafana.com/
+
 ---
 
 QR Code
